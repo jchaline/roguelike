@@ -1,4 +1,4 @@
-package fr.jchaline.rogue.config;
+package fr.jchaline.roguelike.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
